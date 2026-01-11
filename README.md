@@ -72,8 +72,3 @@ This project was developed as part of a Computer Vision lab experiment to demons
 
 ---
 
-### Pro-Tip for your GitHub:
-
-Once you paste this into your README, replace `your-username/your-repo-name` with your actual GitHub path. This makes it easy for your professor to see that the code is yours!
-
-**Would you like me to help you format the "Methodology" section of your Technical Report so you can finish the assignment?**
