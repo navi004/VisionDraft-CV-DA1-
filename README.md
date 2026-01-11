@@ -1,4 +1,3 @@
-Here is a professionally structured **README.md** for your GitHub repository. It is designed to be clear, visually appealing, and emphasizes your technical work for the **Computer Vision** lab assignment.
 
 ---
 
